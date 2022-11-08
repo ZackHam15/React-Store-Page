@@ -5,8 +5,8 @@ In this website page, I 3 main components: Footer, Navbar and Products. The prod
 First clone project and install dependencies
 
 ```sh
-$ git clone https://github.com/hazemfahad/fe-wobbly-goat-theory-test-app
-$ cd be-wobbly-goat-theory-test-app
+$ git clone https://github.com/ZackHam15/React-Store-Page
+$ cd React-Store-Page
 $ npm install
 ```
 
